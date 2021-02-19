@@ -1,0 +1,12 @@
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectFormsApp\SubjectFormsApp\obj\Debug\SubjectFormsApp.csprojAssemblyReference.cache
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectFormsApp\SubjectFormsApp\obj\Debug\SubjectFormsApp.Add_subject.resources
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectFormsApp\SubjectFormsApp\obj\Debug\SubjectFormsApp.Calc.resources
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectFormsApp\SubjectFormsApp\obj\Debug\SubjectFormsApp.Home.resources
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectFormsApp\SubjectFormsApp\obj\Debug\SubjectFormsApp.Properties.Resources.resources
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectFormsApp\SubjectFormsApp\obj\Debug\SubjectFormsApp.csproj.GenerateResource.cache
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectFormsApp\SubjectFormsApp\obj\Debug\SubjectFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectFormsApp\SubjectFormsApp\bin\Debug\SubjectFormsApp.exe.config
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectFormsApp\SubjectFormsApp\bin\Debug\SubjectFormsApp.exe
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectFormsApp\SubjectFormsApp\bin\Debug\SubjectFormsApp.pdb
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectFormsApp\SubjectFormsApp\obj\Debug\SubjectFormsApp.exe
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectFormsApp\SubjectFormsApp\obj\Debug\SubjectFormsApp.pdb

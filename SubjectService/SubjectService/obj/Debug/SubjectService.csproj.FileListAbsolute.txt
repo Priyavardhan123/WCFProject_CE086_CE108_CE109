@@ -1,0 +1,7 @@
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectService\SubjectService\bin\SubjectService.dll.config
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectService\SubjectService\bin\SubjectService.dll
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectService\SubjectService\bin\SubjectService.pdb
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectService\SubjectService\obj\Debug\SubjectService.csprojAssemblyReference.cache
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectService\SubjectService\obj\Debug\SubjectService.csproj.CoreCompileInputs.cache
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectService\SubjectService\obj\Debug\SubjectService.dll
+C:\Users\Priyavardhan\source\repos\SOC_project\SubjectService\SubjectService\obj\Debug\SubjectService.pdb
