@@ -40,6 +40,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button3
@@ -159,11 +160,22 @@
             this.label1.TabIndex = 13;
             this.label1.Text = "Subject :";
             // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18.25F);
+            this.label5.Location = new System.Drawing.Point(278, 66);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(150, 29);
+            this.label5.TabIndex = 25;
+            this.label5.Text = "Add Subject";
+            // 
             // Add_subject
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(616, 450);
+            this.Controls.Add(this.label5);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label6);
@@ -177,7 +189,7 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
             this.Name = "Add_subject";
-            this.Text = "Add_subject";
+            this.Text = "Attendance Manager - Add Subject";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -197,5 +209,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label5;
     }
 }

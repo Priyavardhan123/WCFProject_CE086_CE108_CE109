@@ -123,7 +123,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Name = "Home";
-            this.Text = "Home";
+            this.Text = "Attendance Manager - Home";
             this.ResumeLayout(false);
             this.PerformLayout();
 
